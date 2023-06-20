@@ -1,8 +1,12 @@
 <h1 align="center"> Bem vindo ao meu Github! </h1>
 
-Sou engenheira e matemática, pós graduada em gestão de projetos e Big data. 
-- 📊Em transição de carreiras para áreas de Dados
-- ♥Apaixonada por tecnologia
+Vamos nos conhecer um pouco?! 
+- ⚙ Engenheira e Matemática
+- 🏆 Pós graduada em Gestão de Projetos
+- 📚 Pós graduanda em Big data
+- 📊 Atuo como Líder de Projetos e Analista de dados
+- 💻 Estudante de Engenharia de Dados
+- ♥ Apaixonada por tecnologia
 
 <div>
 <a href="https://github.com/Therezaclm">
@@ -13,5 +17,4 @@ Sou engenheira e matemática, pós graduada em gestão de projetos e Big data.
 
 Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/> 
