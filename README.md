@@ -4,7 +4,8 @@ Vamos nos conhecer um pouco?!
 - ⚙ Engenheira e Matemática
 - 🏆 Pós graduada em Gestão de Projetos
 - 📚 Pós graduanda em Big data
-- 📊 Atuo como Líder de Projetos e Analista de dados
+- 📊 Atuo como Consultora e Analista de dados
+- 👩‍🏫 Mentora na WoMakersCode
 - 💻 Estudante de Engenharia de Dados
 - ♥ Apaixonada por tecnologia
 
